@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14214574",
+      "name": "天气",
+      "font_class": "cloudy",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}
