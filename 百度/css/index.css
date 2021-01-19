@@ -282,6 +282,7 @@ footer{
 	width: 400px;
 	margin-left: auto;
 	margin-right: auto;
+	background-color: white;
 }
 .card{
 	width: 100%;
@@ -321,4 +322,31 @@ footer{
 	margin-top: 20px;
 	width: 75%;
 	height: 40px;
+	background-color: #4e6ef2;
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+}
+.forget{
+	width: 75%;
+	margin-top: 5px;
+}
+.forget a{
+	font-size: 12px;
+	text-decoration: none;
+	color: #4e6ef2;
+}
+.Scan{
+	width: 75%;
+	padding: 0 20px;
+	height: 50px;
+	line-height: 50px;
+	background-color: #f0f6ff;
+}
+.Scan a{
+	text-decoration: none;
+}
+.Scan a span{
+	color: #4e6ef2;
+	font-size: 14px;
 }
