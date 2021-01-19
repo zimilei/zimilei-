@@ -279,22 +279,40 @@ footer{
 	color: #626675;
 }
 .login{
-	width: 500px;
+	width: 400px;
 	margin-left: auto;
 	margin-right: auto;
 }
 .card{
 	width: 100%;
+	padding: 20px;
 }
 .card img{
 	width: 30%;
-	height: 65px;
+	height: 35px;
 	line-height: 75px;
+	float: left;
 }
 .card span{
 	width: 30%;
 	font-size: 20px;
+	float: left;
+	margin-top: 10px;
+	font-size: 18px;
+	font-weight: 500;
+	padding: 0 10pxs;
 }
 .cc{
 	width: 0.2;
+}
+.clear{
+	clear: both;
+}
+.clear{
+	margin-top: 75px;
+	width: 100%;
+}
+.inputcontain input{
+	width: 75%;
+	height: 40px;
 }
